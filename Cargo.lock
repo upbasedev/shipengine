@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "striped"
+name = "shipengine"
 version = "0.0.1"
